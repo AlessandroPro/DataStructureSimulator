@@ -1,4 +1,4 @@
-# DataStructureSimulator
+# Data Structure Simulator
 A simple GUI that includes interactive train cars and stackable blocks to demonstrate common programming concepts. These include linked lists, stacks, recursion, inheritance, frames, and listeners. 
 
 
@@ -24,7 +24,7 @@ Basic mouse operations are as follows:
 The File menu lets the user do the following:
 
 
-• New: Start a new simulation. 
+• New: Start a new simulation.   
 • Exit: Exit from the application.
 
 
